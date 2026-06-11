@@ -1,21 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+ Pashto to English Dictionary
 
-# Run and deploy your AI Studio app
+A lightweight and fast Android dictionary application that allows users to search Pashto words and find their English meanings.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/e0f5eeff-90b6-4f11-b38f-7808e6387cab
-
-## Run Locally
-
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
-
-
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
+- 🔍 **Search Pashto words** – Real-time search with instant results
+- 📝 **English meanings** – Clear and accurate translations
+- ⚡ **Fast & lightweight** – Works offline (if using local database)
+- 📱 **Material Design UI** – Clean and intuitive user interface
+- 💾 **Local database** – No internet connection required (if true)
+- 🎯 **Case-insensitive search** – Finds matches regardless of capitalization
