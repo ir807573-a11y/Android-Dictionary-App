@@ -1,0 +1,6 @@
+{
+  "name": "Pashto Dictionary",
+  "description": "An offline Pashto-to-English dictionary with definitions, pronunciations, examples, word categories, bookmarks, search history, and learning quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

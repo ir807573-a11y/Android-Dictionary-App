@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered bold vector of an open book symbol representing the dictionary -->
+    <path
+        android:fillColor="#E5B56E"
+        android:pathData="M54,28 C38.0,28 29.0,36.0 24,39 L24,76 C29.0,73.0 38.0,65 54,65 C70.0,65 79.0,73.0 84,76 L84,39 C79.0,36.0 70.0,28 54,28 Z" />
+    <path
+        android:fillColor="#DE6B48"
+        android:pathData="M54,32 L54,64 L26,73 L26,42 Z" />
+    <!-- Mini translation dots and page divider -->
+    <path
+        android:fillColor="#F5F2EB"
+        android:pathData="M40,48h10v2h-10zM40,54h10v2h-10zM58,45h14v2h-14zM58,51h14v2h-14z" />
+    <!-- Bottom binding -->
+    <path
+        android:fillColor="#C59F70"
+        android:pathData="M54,65 C40,65 29,71 24,73 L24,76 C29,74 40,68 54,68 C68,68 79,74 84,76 L84,73 C79,71 68,65 54,65 Z" />
+</vector>
